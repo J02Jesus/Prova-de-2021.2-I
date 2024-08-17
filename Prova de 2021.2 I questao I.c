@@ -1,6 +1,4 @@
 #include <stdio.h>
-
-#include <stdio.h>
 int main(){
 int decimal, n, m, o;
 int l, p, q, r, u, t, y;
